@@ -14,6 +14,8 @@ communication with iOS devices.
 
 Some key features are:
 
+
+
 - **Status:** Install, upgrade, uninstall, and enumerate apps
 - **Browse**: Allows to retrieve a list of installed apps with filter options
 - **Install**: Supports app package, carrier bundle and developer .app directory
